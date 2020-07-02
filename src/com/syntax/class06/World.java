@@ -55,7 +55,6 @@ public class World {
 		// HW create an animal
 		Animal dog = new Animal();
 
-		// Break until 8:45
 	}
 
 }
