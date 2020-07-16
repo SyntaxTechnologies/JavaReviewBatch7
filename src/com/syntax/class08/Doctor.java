@@ -14,7 +14,8 @@ public class Doctor {
 	}
 
 	public Doctor(String name, String specialty, int licenseId) {
-		this.name = name;
+		this(name);
+
 		this.specialty = specialty;
 		this.licenseId = licenseId;
 	}
